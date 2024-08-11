@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 
 title: Mellona의 우당당탕 Log # the main title
 
-tagline: 개발지식, tip 들 살아온 Log를 남깁니다.  # it will display as the sub-title
+tagline: 개발지식, tip 들 살아온 Log를 남깁니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   focuschange, chirpy test
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://goldenpearls.github.io/GoldenPerals.github.io/"
 
 github:
-  username: GoldenPerals
+  username: GoldenPearls
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -42,10 +42,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/GoldenPerals # change to your github homepage
+    - https://github.com/GoldenPearls # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+     - https://www.linkedin.com/in/mellona
 
 google_site_verification: 1gDBG1WGds1YWnMxTsZ7XKylUpVdqdzOVsd2_M_stqA
 
@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 
 
 # boolean type, the global switch for ToC in posts.
 toc: true
