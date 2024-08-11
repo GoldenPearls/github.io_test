@@ -45,7 +45,7 @@ social:
     - https://github.com/GoldenPearls # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-     - https://www.linkedin.com/in/mellona
+    # - https://www.linkedin.com/in/mellona
 
 google_site_verification: 1gDBG1WGds1YWnMxTsZ7XKylUpVdqdzOVsd2_M_stqA
 
@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar:
 
 # boolean type, the global switch for ToC in posts.
 toc: true
