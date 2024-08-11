@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy 설치 테스트 # the main title
+title: Mellona의 우당당탕 Log # the main title
 
-tagline: chirpy 설치하면서 테스트 중입니다. # it will display as the sub-title
+tagline: 개발지식, tip 들 살아온 Log를 남깁니다.  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   focuschange, chirpy test
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://focuschange-test.github.io"
 
 github:
-  username: focuschange-test
+  username: GoldenPerals
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -37,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: focuschange test
-  email: focuschange.kim@gmail.com
+  name: 이금주
+  email: prettylee620@gmail.com
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/username # change to your github homepage
+    - https://github.com/GoldenPerals # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
