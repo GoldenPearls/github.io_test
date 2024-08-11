@@ -69,7 +69,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: [light|dark]
+theme_mode: #[light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -79,7 +79,7 @@ theme_mode: [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/profile
+avatar: https://private-user-images.githubusercontent.com/97003348/354071656-79379010-591b-4608-8fa7-ec1fec6d8840.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMzNTI4MzcsIm5iZiI6MTcyMzM1MjUzNywicGF0aCI6Ii85NzAwMzM0OC8zNTQwNzE2NTYtNzkzNzkwMTAtNTkxYi00NjA4LThmYTctZWMxZmVjNmQ4ODQwLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODExVDA1MDIxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWM4Mzk3NmQ2MjYzYmE3NWQ3YzM4ZWNhYWFmMGU2ZWUzZDJmMWY1N2U5Mzc4YjE5NTgyYTdmMzI5MDQyYWY2ZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.V-HfOdsnulDbdsH1-DghHsdd_cA9QWMX9ldeEJ8aPc0
 
 # boolean type, the global switch for ToC in posts.
 toc: true
