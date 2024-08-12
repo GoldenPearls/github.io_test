@@ -23,7 +23,7 @@ title: Mellona의 우당당탕 Log # the main title
 tagline: 개발지식, tip 들 살아온 Log를 남깁니다. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  focuschange, chirpy test
+  웹 개발자의 기록
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://goldenpearls.github.io/GoldenPerals.github.io/"
@@ -37,7 +37,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: 이금주
+  name: mellona
   email: prettylee620@gmail.com
   links:
     # The first element serves as the copyright owner's link
