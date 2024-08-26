@@ -31,11 +31,3 @@
 - Velog : https://velog.io/@prettylee620/posts
 - Rallit : https://www.rallit.com/resumes/6107@prettylee620/%EC%9D%B4%EA%B8%88%EC%A3%BC(%EC%88%98%EC%A0%95%20%EC%A4%91)
 
-
-<!-- markdownlint-disable-next-line -->
-<div align="center">
-
-  <!-- markdownlint-disable-next-line -->
-  # Chirpy Jekyll Theme
-
-블로그 : https://goldenpearls.github.io/GoldenPerals.github.io/
