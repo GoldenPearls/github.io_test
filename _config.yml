@@ -52,7 +52,7 @@ google_site_verification: 1gDBG1WGds1YWnMxTsZ7XKylUpVdqdzOVsd2_M_stqA
 # ↑ --------------------------
 
 google_analytics:
-  id: "G-5QSVYPGQ3D" # fill in your Google Analytics ID
+  id: G-5QSVYPGQ3D # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -69,14 +69,14 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: #[light|dark]
+theme_mode: light #[light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://cdn.jsdelivr.net/gh/GodenPerals/GodenPerals.github.io@main
 
 # the avatar on sidebar, support local or CORS resources
 avatar: "assets/img/profile.jpg"
