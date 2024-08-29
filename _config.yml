@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   웹 개발자의 기록
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://goldenpearls.github.io/GoldenPerals.github.io/"
+url: "https://mellonalog.com"
 
 github:
   username: GoldenPearls
@@ -47,7 +47,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/mellona
 
-google_site_verification: 1gDBG1WGds1YWnMxTsZ7XKylUpVdqdzOVsd2_M_stqA
+google_site_verification:  # Google Search Console verification code
 
 # ↑ --------------------------
 
